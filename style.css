@@ -1,0 +1,81 @@
+
+.bar2 {
+    background-color: rgb(254, 0, 0);
+    height: 2px;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%
+}
+
+.bar3 {
+    background-color: rgb(254, 0, 0);
+    height: 300px;
+    width: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -13.1%
+}
+
+.Openhours {
+    background-color: rgb(254, 0, 0);
+    width: 65%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+
+
+}
+
+
+#Days {
+    color: white;
+    font-family: 'Barlow', sans-serif;
+    font-size: 45px;
+    text-align: center;
+
+
+}
+
+#Time {
+    color: white;
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.Photo1 {
+    width: 38.8%;
+    margin-left: 17.48%;
+    margin-top: 1%;
+    position: inherit;
+}
+
+.Photo2 {
+    width: 25%;
+    margin-left: 57.5%;
+    position: inherit;
+    margin-top: -29.1%;
+}
+
+.Photo3 {
+    width: 25%;
+    margin-left: 57.5%;
+    position: inherit;
+    margin-top: 0.9%;
+}
+
+.Childcancer {
+    margin-left: 25%;
+    margin-top: 1%;
+    width: 20%;
+    
+}
+
+
+
+
+
+
